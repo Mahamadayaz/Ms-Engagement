@@ -59,13 +59,13 @@
 • Countdown is styled and embedded within the main invite section.
 
 ## 🚀 How to Use
-🖥️ <a href="https://mahamadayazmomin.github.io/Ms-Engagement" target="_blank">Live Preview</a>
+🖥️ <a href="https://mahamadayaz.github.io/Ms-Engagement" target="_blank">Live Preview</a>
 
 🔗 <a href="https://ms-engagement.netlify.app" target="_blank">View Live Invitation Demo</a>
 
 ## 🛠️ Local Usage
 
-📦 <a href="https://github.com/mahamadayazmomin/Ms-Engagement.git" download>Download the project files</a>
+📦 <a href="https://github.com/mahamadayaz/Ms-Engagement.git" download>Download the project files</a>
 
 🔗 <a href="https://ms-engagement.netlify.app" target="_blank">Netlify</a>
 

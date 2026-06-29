@@ -2,7 +2,7 @@
 <h1 align="center">Engagement Invitation :ring: </h1>
 
 
-##Mahmoud ♥ Donia – Engagement Invitation :ring:
+## Ayaz ♥ Saba – Engagement Invitation :ring:
 
 
 ✨ A graceful, animated digital invite to celebrate love & togetherness ✨
@@ -10,21 +10,25 @@
 🌟 Features You’ll Love
 
 
-## 🎨 our beginning 
-• Beautiful hanging stars, crescent moon.
+## 🎨 Islamic-Themed Animated Decorations
+• Beautiful hanging stars, crescent moon, and mosque graphics for a spiritual ambiance.
 
 ## 💌 Elegant Event Details Card
 • Featuring:\
-‣ Names: Mahmoud ♥ Donia\
+‣ Names: Ayaz ♥ Saba\
 ‣ Occasion: Engagement Ceremony\
-‣ Venue: Villa Rose garden, Abu yousef, Agami\
+‣ Venue: Aman Hall, Sangli, Maharashtra\
+‣ Stylish artwork & elegant typography.
+
+## 🕌 Crescent & Mosque SVG Artwork
+• Adds a soulful traditional Islamic touch.
 
 ## 🕊️ Animated Scroll Arrow
 • Keeps guests scrolling with a gentle guiding animation.
 
 ## ⏳ Live Countdown Timer
 • Displays time left in Days, Hours, Minutes, Seconds until the big moment.\
-• Message displays: "6/6/2026 at6:00pm" once the countdown completes.
+• Message displays: "00:00:00" once the countdown completes.
 
 ## 📅 Add to Calendar Button
 • Seamless Google Calendar integration with one click.
